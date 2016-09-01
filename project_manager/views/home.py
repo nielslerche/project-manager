@@ -1,4 +1,4 @@
-# project-manager/views/home.py
+# project_manager/views/home.py
 
 from flask import Blueprint, render_template
 
