@@ -1,8 +1,5 @@
-# ProjectManager
+# Project Manager
 A project manager made with Flask.
 
 ## License
-ProjectManager is licensed under the MIT License.
-
-## Copyright
-Niels Lerche Sørensen © 2016
+Project Manager is licensed under the MIT License.
